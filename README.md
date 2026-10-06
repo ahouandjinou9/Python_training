@@ -8,4 +8,4 @@ This project is part of my Python training.
 - Work with virtual environments
 - Learn data analysis
 - Learn Git and GitHub
-First
+- First
